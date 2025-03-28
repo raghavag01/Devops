@@ -8,3 +8,5 @@ This project demonstrates Continuous Delivery using GitHub Actions to automatica
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+
+Docker Hub Image URL: `docker.io/raghavdocker1/fastapi-app:latest`
